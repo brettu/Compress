@@ -1,0 +1,11 @@
+Place compress.rb in your rails project lib/ directory.
+
+Then add
+
+require 'compress.rb'
+
+at the top of application_controller.rb
+
+
+Why mess with the server if you don't have to?
+
